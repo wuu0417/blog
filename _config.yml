@@ -3,6 +3,3 @@ theme: minima
 
 header_pages:
   - index.md
-  - about.md
-  - share.md
-  - sticky.md
