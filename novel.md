@@ -8,5 +8,5 @@ permalink: /novel/
 
 文笔拙劣，供读一乐，请多见谅。
 
-[《失眠》](/blog/novels/失眠) （2023/3/9）
+[失眠](/blog/novels/失眠) （2023/3/9）
 
