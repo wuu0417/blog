@@ -5,4 +5,4 @@ title: 首页
 
 请阅读 [博客声明](https://wuu0417.github.io/blog/notice)
 
-做一个有价值、有温暖的行动者。
+我真正想要的究竟是什么？
