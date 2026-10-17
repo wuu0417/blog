@@ -6,4 +6,5 @@ title: 首页
 请阅读 [博客声明](https://wuu0417.github.io/blog/notice)
 
 一个有理念的现实主义者。
+
 做一个有价值、有温暖的行动者。INTJ+Fi
