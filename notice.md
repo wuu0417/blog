@@ -11,3 +11,5 @@ permalink: /notice/
 大部分内容和微信公众号上的内容是同步的。如果有一些内容真正帮到你了，我非常高兴。
 
 祝你天天开心。
+
+比我更好的作者：[编程随想的博客](https://program-think.blogspot.com)
