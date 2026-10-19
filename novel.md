@@ -74,6 +74,8 @@ permalink: /novel/
 
 [2036（五）](/blog/novels/2036/2036（五）)
 
+[2036（六）](/blog/novels/2036/2036（六）)
+
 <br>
 
 **万分之一**
