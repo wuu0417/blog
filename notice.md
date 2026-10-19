@@ -13,3 +13,5 @@ permalink: /notice/
 祝你天天开心。
 
 比我更好的作者：[编程随想的博客](https://program-think.blogspot.com)
+
+[旧的个人主页存档（尚未完全修复）](https://wuu0417.github.io/old-homepage/)
