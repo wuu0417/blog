@@ -56,6 +56,10 @@ permalink: /novel/
 
 [（番外）](/blog/novels/wind/（番外）)
 
+[前传（六）](/blog/novels/wind/前传（六）)
+
+[前传（完）](/blog/novels/wind/前传（完）)
+
 [第一章 叶瞳（一）](/blog/novels/wind/第一章 叶瞳（一）)
 
 [第一章 叶瞳（二）](/blog/novels/wind/第一章 叶瞳（二）)
