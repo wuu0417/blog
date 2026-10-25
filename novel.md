@@ -84,8 +84,8 @@ permalink: /novel/
 
 **万分之一**
 
+[前言](/blog/novels/万分之一/前言)
+
 <br>
 
 ### **短篇**
-
-[前言](/blog/novels/万分之一/前言)
