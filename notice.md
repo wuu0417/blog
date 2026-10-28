@@ -20,4 +20,6 @@ permalink: /notice/
 
 [圣经和合本全文-罗马天主教廷](https://www.vatican.va/chinese/bibbia.htm)
 
-[shadowsocks作者说的很对的一句话与感想-muink](https://gist.github.com/muink/0765f90c98c0c1259de7)
+[shadowsocks作者说的很对的一句话与感想](https://gist.github.com/muink/0765f90c98c0c1259de7)
+
+[启程-2016年全国高中生毕业大合唱](https://youtu.be/sDGghk50ns0)
