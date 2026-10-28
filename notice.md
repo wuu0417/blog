@@ -16,7 +16,7 @@ permalink: /notice/
 
 <br>
 
-[旧的个人主页存档（尚未完全修复）](https://wuu0417.github.io/old-homepage/)
+[旧的个人主页存档](https://wuu0417.github.io/old-homepage/)
 
 [圣经和合本全文-罗马天主教廷](https://www.vatican.va/chinese/bibbia.htm)
 
