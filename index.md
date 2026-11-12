@@ -5,6 +5,8 @@ title: 首页
 
 请阅读 [博客声明](https://wuu0417.github.io/blog/notice)
 
-有了目标，人才可以行动。
+我可以理解世界的残酷，但不必因此成为残酷的一部分。
 
-你想要的，究竟是什么？
+他更像是一个有能力、有野心、有边界，同时还保留着同理心的人。
+
+[链接🔗](https://chatgpt.com/share/6af59f0a-d2b4-83e8-9f7a-8894ebcd9887?ogimg=plain)
