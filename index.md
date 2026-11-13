@@ -5,7 +5,7 @@ title: 首页
 
 请阅读 [博客声明](https://wuu0417.github.io/blog/notice)
 
-*Esse non videri*
+*Esse non videri —— to act, not to seem to be.*
 
 我可以理解世界的残酷，但不必因此成为残酷的一部分。
 
