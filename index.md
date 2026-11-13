@@ -5,6 +5,8 @@ title: 首页
 
 请阅读 [博客声明](https://wuu0417.github.io/blog/notice)
 
+*Esse non videri*
+
 我可以理解世界的残酷，但不必因此成为残酷的一部分。
 
 他更像是一个有能力、有野心、有边界，同时还保留着同理心的人。
