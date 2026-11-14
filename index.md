@@ -12,3 +12,5 @@ title: 首页
 [链接🔗](https://chatgpt.com/share/6af59f0a-d2b4-83e8-9f7a-8894ebcd9887?ogimg=plain) [图片🖼️](https://raw.githubusercontent.com/wuu0417/private-repository/refs/heads/main/backup/%E6%88%90%E7%86%9F%E7%9A%84%E8%87%AA%E6%88%91.jpg) [图片🖼️](https://raw.githubusercontent.com/wuu0417/private-repository/refs/heads/main/backup/%E6%88%90%E7%86%9F%E7%9A%84%E8%87%AA%E6%88%912.jpg)
 
 没必要的事情不要做，有必要的事情尽快做。
+
+喜欢写小说！小说是一种情绪，亦或是一种语言。
