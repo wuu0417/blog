@@ -12,9 +12,3 @@ title: 首页
 [链接🔗](https://www.dc.com/characters/batman) [图片🖼️](https://raw.githubusercontent.com/wuu0417/private-repository/refs/heads/main/backup/%E6%88%90%E7%86%9F%E7%9A%84%E8%87%AA%E6%88%91.jpg) [图片🖼️](https://raw.githubusercontent.com/wuu0417/private-repository/refs/heads/main/backup/%E6%88%90%E7%86%9F%E7%9A%84%E8%87%AA%E6%88%912.jpg)
 
 没必要的事情不要做，有必要的事情尽快做。
-
-**我之所愿无非是尝试依本性而生活，**
-
-**却缘何如此之难？**
-
-**—— 赫尔曼·黑塞《德米安》**
