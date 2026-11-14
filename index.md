@@ -10,5 +10,3 @@ title: 首页
 知世故而不世故，历圆滑而弥天真。
 
 [链接🔗](https://chatgpt.com/share/6af59f0a-d2b4-83e8-9f7a-8894ebcd9887?ogimg=plain) [图片🖼️](https://raw.githubusercontent.com/wuu0417/private-repository/refs/heads/main/backup/%E6%88%90%E7%86%9F%E7%9A%84%E8%87%AA%E6%88%91.jpg) [图片🖼️](https://raw.githubusercontent.com/wuu0417/private-repository/refs/heads/main/backup/%E6%88%90%E7%86%9F%E7%9A%84%E8%87%AA%E6%88%912.jpg)
-
-<s>*我就是全中国最大的神经病*</s>
