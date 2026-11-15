@@ -8,3 +8,5 @@ title: 首页
 🦊🙏 **INTJ**
 
 ***Esse non videri —— to act, not to seem to be.***
+
+***上善若水。水善利万物而不争，处众人之所恶，故几于道。***
