@@ -7,4 +7,4 @@ title: 首页
 
 *Esse non videri —— to act, not to seem to be.*
 
-**知世故而不世故，历圆滑而弥天真。**
+知世故而不世故，历圆滑而弥天真。
